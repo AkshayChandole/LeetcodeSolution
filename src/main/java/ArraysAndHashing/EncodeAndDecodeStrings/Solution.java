@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Time complexity - O(n)
+ * Time complexity - O(n^2)
  * Space complexity - O(n)
  */
 public class Solution {
