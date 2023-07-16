@@ -3,6 +3,10 @@ package ArraysAndHashing.ValidSudoku;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Time Complexity - O(n*n)
+ * Space Complexity - O(n)
+ */
 class Solution {
     public boolean isValidSudoku(char[][] board) {
         Set<Character> rowSet;
