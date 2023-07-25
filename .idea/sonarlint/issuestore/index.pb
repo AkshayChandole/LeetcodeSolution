@@ -76,3 +76,9 @@ Xsrc/test/java/SlidingWindow/LongestSubstringWithoutRepeatingCharacters/TestSolu
 Tsrc/main/java/SlidingWindow/LongestSubstringWithoutRepeatingCharacters/Solution.java,c\1\c187c29decc3e3da6ecd9357c7e3a135a7fe13f6
 ‚
 Rsrc/main/java/SlidingWindow/LongestSubstringWithoutRepeatingCharacters/Problem.txt,9\d\9d30beaae2ecd292430308f17b9a2e3e1785f15c
+q
+Asrc/test/java/SlidingWindow/PermutationinString/TestSolution.java,7\1\712e5601644847352e38e6e894675eb416243344
+m
+=src/main/java/SlidingWindow/PermutationinString/Solution.java,5\8\5879ef5ac915bb06ac04561f4407a19e822b6c33
+k
+;src/main/java/SlidingWindow/PermutationinString/Problem.txt,b\c\bcaf3805b258eaaef94b3e5faef96749f0cbda39
