@@ -1,4 +1,4 @@
-package LinkedList.FindTheDuplicateNumber;
+package TwoPointers.FindTheDuplicateNumber;
 
 import java.util.Arrays;
 
