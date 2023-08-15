@@ -2,7 +2,7 @@ Link: https://leetcode.com/problems/last-stone-weight/
 
 Title: [1046] Last Stone Weight
 
-Tags: Two-pointers, Sliding-window
+Tags: Heap/Priority Queue
 
 Companies: Unknown
 
