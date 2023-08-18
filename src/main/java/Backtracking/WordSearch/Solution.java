@@ -28,11 +28,12 @@ class Solution {
     }
 
     private boolean backtrack(int row, int col, String word, int index) {
-        /* Base case for the termination of backtracking. */
+        // Base case for the termination of backtracking.
         if (index >= word.length()) {
             return true;
         }
-        /* Check the boundaries and if the current cell matches the current character in the word. */
+
+        // Check the boundaries and if the current cell matches the current character in the word.
         if (row < 0 || row == rows || col < 0 || col == cols || board[row][col] != word.charAt(index)) {
             return false;
         }
