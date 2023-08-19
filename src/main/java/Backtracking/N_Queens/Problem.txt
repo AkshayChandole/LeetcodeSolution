@@ -1,6 +1,6 @@
 Link: https://leetcode.com/problems/n-queens/
 
-Title: [51] N-Queens,
+Title: [51] N-Queens
 
 Tags: Backtracking
 
