@@ -2,7 +2,7 @@ Link: https://leetcode.com/problems/min-cost-climbing-stairs/
 
 Title: [746] Min Cost Climbing Stairs
 
-Tags: Trie
+Tags: Dynamic-programming
 
 Companies: Amazon, Apple, Bloomberg, Microsoft
 
