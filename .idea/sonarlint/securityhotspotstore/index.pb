@@ -384,3 +384,9 @@ x
 Hsrc/main/java/Backtracking/LetterCombinationsOfPhoneNumber/Solution.java,c\8\c87b091660c423ca4a165e965a15a8db280b1b76
 e
 5src/test/java/Backtracking/N_Queens/TestSolution.java,d\2\d2075b8fd43660d706c5c7a2a2791beacd2ff91c
+q
+Asrc/test/java/DynamicProgramming/HouseRobber_II/TestSolution.java,f\4\f4b979fa7a38eedcef8c1a53e8db9b2debbcaae4
+m
+=src/main/java/DynamicProgramming/HouseRobber_II/Solution.java,a\5\a5e7d2024861a738831bf32ccc562e7c5d9d7f53
+k
+;src/main/java/DynamicProgramming/HouseRobber_II/Problem.txt,1\8\1809c238c071df81962973e30c274d778c739ca6
