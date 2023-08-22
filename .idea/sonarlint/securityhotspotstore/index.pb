@@ -390,3 +390,13 @@ m
 =src/main/java/DynamicProgramming/HouseRobber_II/Solution.java,a\5\a5e7d2024861a738831bf32ccc562e7c5d9d7f53
 k
 ;src/main/java/DynamicProgramming/HouseRobber_II/Problem.txt,1\8\1809c238c071df81962973e30c274d778c739ca6
+~
+Nsrc/test/java/DynamicProgramming/LongestPalindromicSubstring/TestSolution.java,8\4\84a8522690e0ba18b87ab245f0b7bd66fe74f9d8
+z
+Jsrc/main/java/DynamicProgramming/LongestPalindromicSubstring/Solution.java,4\b\4b3ac132f6d50d090bd1845a9badea47af918e46
+x
+Hsrc/main/java/DynamicProgramming/LongestPalindromicSubstring/Problem.txt,4\8\485f017073d2ee0b89b3e4309188c36e9500e239
+x
+Hsrc/test/java/DynamicProgramming/PalindromicSubstrings/TestSolution.java,1\b\1bfc8711465c1daabf3451e36611f1fbddba63a0
+t
+Dsrc/main/java/DynamicProgramming/PalindromicSubstrings/Solution.java,2\4\24101a268f4037cf8c2dca6c214f99ca5579ca9a
