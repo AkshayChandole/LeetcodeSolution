@@ -406,3 +406,15 @@ m
 =src/test/java/DynamicProgramming/DecodeWays/TestSolution.java,6\7\676adcef545a99f1cfa356d26ab1910238157344
 i
 9src/main/java/DynamicProgramming/DecodeWays/Solution.java,9\1\912789e0703e880d928f65e6c8424d26cf556946
+g
+7src/main/java/DynamicProgramming/DecodeWays/Problem.txt,f\0\f0f7c1da40b9f4fc1d77d9229ccd65f98e579094
+m
+=src/test/java/DynamicProgramming/CoinChange/TestSolution.java,d\8\d852805219a6e61f10727180ebb913fa09432989
+g
+7src/main/java/DynamicProgramming/CoinChange/Problem.txt,0\0\0043c34f7cd129c7bbac71779f5d573d7ee681b4
+i
+9src/main/java/DynamicProgramming/CoinChange/Solution.java,a\1\a17878c3338cae16205d503e0694192d3191bb32
+y
+Isrc/test/java/DynamicProgramming/MaximumProductSubarray/TestSolution.java,9\5\95c26757f9f259bac0ad803c3d0c38257932af09
+u
+Esrc/main/java/DynamicProgramming/MaximumProductSubarray/Solution.java,4\4\443070e9c0aae94501f5bebfe06d998b7487c8d1
