@@ -4,7 +4,7 @@ Title: [994] Rotting Oranges
 
 Tags: Graph, Hash-table
 
-Companies: Unknown
+Companies: Amazon, VMWare, Microsoft, LinkedIn
 
 Description:
     You are given an m x n grid where each cell can have one of three values:
