@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 
 // ****************************************************************************************
-// Optimal Solution using Breast first search -
+// Optimal Solution using Breadth first search -
 
 /**
  * Time Complexity - O(M * N) where M and N are the dimensions of the grid. Each cell is processed once.
