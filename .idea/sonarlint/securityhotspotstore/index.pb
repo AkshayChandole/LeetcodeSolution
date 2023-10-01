@@ -463,3 +463,12 @@ d
 4src/main/java/Graphs/CourseSchedule_II/Solution.java,c\2\c2ecac9f1dac11fa6a7c5ad8f872c37f2b0c454e
 h
 8src/test/java/Graphs/CourseSchedule_II/TestSolution.java,a\2\a2f29c6902ff14aa15e7804f23ae5cf9547c9881
+b
+2src/main/java/Graphs/CourseSchedule_II/Problem.txt,f\0\f0c9087a8c48619d472b3825fae28de927ca39b0
+f
+6src/main/java/Graphs/RedundantConnection/Solution.java,8\5\85052c32cfa242c569f26f7a4c20b008abff8082
+j
+:src/test/java/Graphs/RedundantConnection/TestSolution.java,8\9\89c4222cadb31ed014d4153c2fb75708da24580d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
